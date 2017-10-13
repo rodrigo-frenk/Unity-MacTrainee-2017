@@ -78,6 +78,10 @@
 #### Clase 4
 
    - Física en Unity
+      - Gravedad
+      - Materiales Físicos (Fricción)
+      - Fuerzas
+      - Lanzando objetos
 
    - Scripting
       - Eventos
